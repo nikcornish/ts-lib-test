@@ -8,7 +8,7 @@
     "/dist"
   ],
   "scripts": {
-    "build": "tsc src/index.ts"
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
