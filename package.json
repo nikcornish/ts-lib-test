@@ -1,0 +1,24 @@
+{
+  "name": "quickmafz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "scripts": {
+    "build": "tsc src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikcornish/ts-lib-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikcornish/ts-lib-test/issues"
+  },
+  "homepage": "https://github.com/nikcornish/ts-lib-test#readme"
+}
