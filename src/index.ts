@@ -1,3 +1,3 @@
 // Exports made available to consuming library
-export { add } from './math'
+export { add, sub } from './math'
 export { logger } from './util'
