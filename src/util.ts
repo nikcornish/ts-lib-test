@@ -1,0 +1,1 @@
+export const logger = <Type>(input: Type): void => console.log(input)

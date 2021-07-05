@@ -8,7 +8,11 @@
     "/dist"
   ],
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "patch": "npm version patch",
+    "minor": "npm version minor",
+    "major": "npm version major"
   },
   "repository": {
     "type": "git",
